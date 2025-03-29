@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\kullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\admin_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\admin_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\girisyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\girisyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\enumaration\\loginstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\enumaration\\loginstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\sifredegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\sifredegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kasiyerpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\kasiyerpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kasiyerpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\kasiyerpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\admin_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\admin_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\model\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\model\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\kullanicipanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|c:\\users\\hp\\desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\urun_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\urun_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kullanicipanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\kullanicipanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|c:\\users\\hp\\desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\dao\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\dao\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|c:\\users\\hp\\desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\urun_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\urun_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\model\\logintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\model\\logintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\sifredegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\sifredegistirme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\girisyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168EDD97-E167-4643-B7F6-E4E7FE25B55E}|barkodlumarketotomasyon\\barkodlumarketotomasyon.csproj|solutionrelative:barkodlumarketotomasyon\\girisyap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "girisyap.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\girisyap.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\girisyap.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\girisyap.cs*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\girisyap.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAjwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:25:16.538Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "sifredegistirme.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\sifredegistirme.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\sifredegistirme.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\sifredegistirme.cs*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\sifredegistirme.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:09:57.427Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "logintable.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\model\\logintable.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\model\\logintable.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\model\\logintable.cs",
+              "RelativeToolTip": "barkodlumarketotomasyon\\model\\logintable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:30:52.088Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "urun_panel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\urun_panel.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\urun_panel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\urun_panel.cs*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\urun_panel.cs*",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAUwJAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:27:41.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "urun_panel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\urun_panel.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\urun_panel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\urun_panel.cs [Design]*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\urun_panel.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:56:47.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "repository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\dao\\repository.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\dao\\repository.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\dao\\repository.cs",
+              "RelativeToolTip": "barkodlumarketotomasyon\\dao\\repository.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAAwFoBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:39:15.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "kullanicipanel.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kullanicipanel.Designer.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\kullanicipanel.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kullanicipanel.Designer.cs*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\kullanicipanel.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:13:00.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "kullanicipanel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kullanicipanel.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\kullanicipanel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kullanicipanel.cs*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\kullanicipanel.cs*",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAUwIQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:18:13.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kullanicipanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kullanicipanel.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\kullanicipanel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kullanicipanel.cs [Design]*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\kullanicipanel.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T18:12:50.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin_panel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\admin_panel.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\admin_panel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\admin_panel.cs*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\admin_panel.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:41:32.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "urun.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\model\\urun.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\model\\urun.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\model\\urun.cs",
+              "RelativeToolTip": "barkodlumarketotomasyon\\model\\urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:53:09.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\Program.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\Program.cs",
+              "RelativeToolTip": "barkodlumarketotomasyon\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T18:37:51.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "meyvesebzepanel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\meyvesebzepanel.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\meyvesebzepanel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\meyvesebzepanel.cs*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\meyvesebzepanel.cs*",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAMwKIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:55:24.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "meyvesebzepanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\meyvesebzepanel.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\meyvesebzepanel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\meyvesebzepanel.cs [Design]*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\meyvesebzepanel.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:20:01.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "admin_panel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\admin_panel.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\admin_panel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\admin_panel.cs [Design]*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\admin_panel.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:28:08.058Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\model\\user.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\model\\user.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\model\\user.cs",
+              "RelativeToolTip": "barkodlumarketotomasyon\\model\\user.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:48:12.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "kasiyerpaneli.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kasiyerpaneli.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\kasiyerpaneli.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kasiyerpaneli.cs*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\kasiyerpaneli.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAnwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:25:22.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "kasiyerpaneli.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kasiyerpaneli.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\kasiyerpaneli.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\kasiyerpaneli.cs [Design]*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\kasiyerpaneli.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:13:46.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sifredegistirme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\sifredegistirme.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\sifredegistirme.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\sifredegistirme.cs [Design]*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\sifredegistirme.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:57:05.157Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "loginstatus.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\enumaration\\loginstatus.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\enumaration\\loginstatus.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\enumaration\\loginstatus.cs",
+              "RelativeToolTip": "barkodlumarketotomasyon\\enumaration\\loginstatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:39:33.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "controller.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\controller\\controller.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\controller\\controller.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\controller\\controller.cs",
+              "RelativeToolTip": "barkodlumarketotomasyon\\controller\\controller.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAvwJkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:38:59.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "girisyap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\girisyap.cs",
+              "RelativeDocumentMoniker": "barkodlumarketotomasyon\\girisyap.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\market\\barkodlumarketotomasyon\\barkodlumarketotomasyon\\girisyap.cs [Design]*",
+              "RelativeToolTip": "barkodlumarketotomasyon\\girisyap.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:25:41.75Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
